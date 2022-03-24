@@ -1,0 +1,33 @@
+sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 400px;
+    flex-shrink: 0;
+    background-color: #9aaedf2b;
+    font-size: 20px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+    background-color: #181818;
+    color: #bababa;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+sidebar p {
+    text-align: center;
+}
+
+#joueur {
+    text-transform: uppercase;
+    font-weight: bold;
+}

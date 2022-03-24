@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+
+    color: #fff;
+
+    background: url(../img/background.jpg) no-repeat center;
+    background-size: cover;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
